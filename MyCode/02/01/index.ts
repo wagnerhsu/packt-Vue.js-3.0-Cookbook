@@ -7,4 +7,3 @@ const firstNumber: number = 10;
 const secondNumber: number = 20;
 
 console.log(sum(firstNumber, secondNumber));
-console.log([...Array(2).fill('-')].join(', '));
